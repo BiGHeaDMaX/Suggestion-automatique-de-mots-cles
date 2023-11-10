@@ -12,4 +12,4 @@ Une API contenant le modèle le plus performant a été développée et déploy�
 - **04 - Approche supervisée.ipynb** : test et évaluation de modèles supervisés.
 - **05 - Accès à l'API.ipynb** : exemple d'accès à l'API déployée dans le cloud.
 - **06 - Note technique.pdf** : une note technique concernant les approches et outils pour une démarche orienté MLOPS.
-
+- **07 - Présentation.pptx** : support de présentation.

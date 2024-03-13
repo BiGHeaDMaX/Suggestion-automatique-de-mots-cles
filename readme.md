@@ -3,7 +3,7 @@ Ce projet vise à élaborer un modèle qui permet de prédire des tags définiss
 Ce travail est basé sur 50 000 messages et leurs tags associés provenant de Stack Overflow. Les messages ont été récupérés sur le [*StackExchange Data Explorer*](https://data.stackexchange.com/stackoverflow/query/new).
 
 > **Note**<br>
-Une API contenant le modèle le plus performant a été développée et déployée sur Azure, le code et le workflow se trouvent dans [ce repository](https://github.com/BiGHeaDMaX/OCR-Projet-5-API)
+Une API contenant le modèle le plus performant a été développée et déployée sur Azure, le code et le workflow se trouvent dans [ce repository](https://github.com/BiGHeaDMaX/Suggestion-automatique-de-mots-cles-API)
 
 # **Contenu de ce repository**
 - **01 - Pré-traitements et Exploration.ipynb** : modalités de récupération des messages, préparation des données et exploration.
